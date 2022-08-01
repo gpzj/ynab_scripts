@@ -1,2 +1,2 @@
 # ynab_scripts
-ynab scripts to make my budgeting life easier
+"You Need A Budget" scripts to make my budgeting life easier
